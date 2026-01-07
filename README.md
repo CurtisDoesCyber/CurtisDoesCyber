@@ -11,7 +11,7 @@
 <h2>:keyboard:  Programming Projects </h2>
 
 - <b>Python</b>
-  - [AI-Based Text Classification of Fake News and Phishing Emails Using BERT](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [AI-Based Text Classification of Fake News and Phishing Emails Using BERT](https://github.com/CurtisDoesCyber/AI-BasedTextClassifier))
 
 <h2> :keyboard:  Connect with me:</h2>
 
