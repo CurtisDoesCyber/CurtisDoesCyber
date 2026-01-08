@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SIEM Log Analysis Using Splunk</b>
-  - [Incident analysis and documentation of abnormal system events using Splunk SIEM](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Incident analysis and documentation of abnormal system events using Splunk SIEM](https://github.com/CurtisDoesCyber/Incident-Analysis-And-Documentation/blob/main/README.md)
 - <b>PowerShell</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
   - [Active Directory Security  Monitoring Lab](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
