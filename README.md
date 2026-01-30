@@ -6,7 +6,7 @@
   - [Incident analysis and documentation of abnormal system events using Splunk SIEM](https://github.com/CurtisDoesCyber/Incident-Analysis-And-Documentation/blob/main/README.md)
 
 - <b>PowerShell</b>
-  - [Active Directory Security  Monitoring Lab](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Active Directory Security  Monitoring Lab](https:PowerShell-Integrity-FIM)
 
 <h2>:keyboard:  Programming Projects </h2>
 
